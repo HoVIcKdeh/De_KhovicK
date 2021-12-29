@@ -76,5 +76,6 @@ public class TasksFrom11_To_24 {
 
     public static String changingTheEncoding(String s, Charset o1, Charset o2) {
         return new String(s.getBytes(o1), o2);
+
     }
 }

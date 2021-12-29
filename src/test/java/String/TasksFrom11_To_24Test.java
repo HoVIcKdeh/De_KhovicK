@@ -66,6 +66,7 @@ public class TasksFrom11_To_24Test {
     @Test
     public void testChangingTheEncoding() {
         System.out.println(TasksFrom11_To_24.changingTheEncoding("This method works!", StandardCharsets.UTF_8, StandardCharsets.UTF_16));
+
     }
 
 }
