@@ -11,6 +11,18 @@ public class Point {
         this.z = z;
     }
 
+    public double getX() {
+        return x;
+    }
+
+    public double getY() {
+        return y;
+    }
+
+    public double getZ() {
+        return z;
+    }
+
 
 
 }
