@@ -39,6 +39,7 @@ public class TasksFrom_1_To_10Test {
 
     @Test
     public void testStudyingScreening() {
+
         TasksFrom_1_To_10.studyingScreening();
     }
 
